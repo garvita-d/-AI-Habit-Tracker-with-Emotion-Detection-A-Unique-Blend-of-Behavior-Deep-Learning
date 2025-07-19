@@ -1,0 +1,8 @@
+habit,start_time,end_time,duration_minutes,dominant_emotion,emotion_distribution,total_emotion_samples
+Exercise,2025-07-19 14:13:24,2025-07-19 14:15:07,1.73,happy,"{""happy"": 5}",5
+Music,2025-07-19 14:16:11,2025-07-19 14:17:17,1.1,happy,"{""happy"": 1, ""neutral"": 1}",2
+Meditation,2025-07-19 14:24:26,2025-07-19 14:25:25,1.0,neutral,"{""neutral"": 2}",2
+Meditation,2025-07-19 14:40:52,2025-07-19 14:44:27,3.58,neutral,"{""neutral"": 3, ""fear"": 1, ""angry"": 1, ""surprise"": 1}",6
+Study/Work,2025-07-19 16:00:51,2025-07-19 16:01:45,0.9,surprise,"{""surprise"": 1, ""neutral"": 1}",2
+Study/Work,2025-07-19 16:09:30,2025-07-19 16:11:09,1.66,neutral,"{""surprise"": 1, ""neutral"": 2, ""happy"": 1, ""angry"": 1}",5
+Study/Work,2025-07-19 16:20:53,2025-07-19 16:23:39,2.76,happy,"{""happy"": 1, ""neutral"": 1, ""fear"": 1}",3
